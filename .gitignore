@@ -1,0 +1,11 @@
+__pycache__
+*. py[cod]
+*. pyc
+venv/
+*. venv
+• env
+DS_Store
+Thumbs. db
+*. 1og
+faiss_db.idx
+visualizedIndex.csv

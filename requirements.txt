@@ -1,0 +1,8 @@
+torch
+transformers
+langchain
+langchain_community
+numpy
+pandas
+faiss-cpu
+pypdf

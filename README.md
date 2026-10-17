@@ -88,4 +88,4 @@ This default program uses FinBerg to analyze the sentiment of financial projecti
 
 
 
-Last updated: 2026-10-17 12:41 UTC
+Last updated: 2026-10-17 16:08 UTC
